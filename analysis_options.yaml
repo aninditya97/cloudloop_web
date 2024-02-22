@@ -1,0 +1,25 @@
+include: package:very_good_analysis/analysis_options.2.4.0.yaml
+
+analyzer:
+  exclude: [
+    build/**, 
+    lib/**.freezed.dart, 
+    lib/**.g.dart,
+    lib/**.gr.dart,
+    lib/**firebase_options.dart
+  ]
+
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+  errors:
+    invalid_annotation_target: ignore
+
+linter:
+  rules:
+    public_member_api_docs: false
+    one_member_abstracts: false
+    library_private_types_in_public_api: false
+    argument_type_not_assignable: false
+    implicit_dynamic_method: false

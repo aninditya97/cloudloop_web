@@ -1,0 +1,35 @@
+import 'package:cloudloop_mobile/core/preferences/text_styles.dart';
+import 'package:flutter/material.dart';
+
+class HeadingText4 extends StatelessWidget {
+  const HeadingText4({
+    Key? key,
+    required this.text,
+    this.textColor,
+    this.textAlign,
+    this.maxLines,
+    this.overflow,
+    this.textHeight,
+  }) : super(key: key);
+
+  final String text;
+  final Color? textColor;
+  final TextAlign? textAlign;
+  final int? maxLines;
+  final double? textHeight;
+  final TextOverflow? overflow;
+
+  @override
+  Widget build(BuildContext context) {
+    return Text(
+      text,
+      style: TextStyles.heading4.copyWith(
+        color: textColor,
+        height: textHeight,
+      ),
+      textAlign: textAlign,
+      maxLines: maxLines,
+      overflow: overflow,
+    );
+  }
+}

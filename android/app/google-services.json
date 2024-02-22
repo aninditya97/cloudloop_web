@@ -1,0 +1,342 @@
+{
+  "project_info": {
+    "project_number": "853683776763",
+    "project_id": "cloudloop-5d8d2",
+    "storage_bucket": "cloudloop-5d8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853683776763:android:73df2ea1d1fd5f942d545e",
+        "android_client_info": {
+          "package_name": "com.cloudloop.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853683776763-0mfsr00bv6jaca5nj468g9blmtfj3p3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "10f3f5467b50d7d93d4fb0159e6d9144e50194b5"
+          }
+        },
+        {
+          "client_id": "853683776763-3cbqp39qc2us6g2lon40bkvekrr8km2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "6b992cb93809e9989caa1b2d539a0aa1bb237ca9"
+          }
+        },
+        {
+          "client_id": "853683776763-5pghk308of06vnato2b3lhj4vvi9diki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "f4b8c03cdd4a0ad56812eb1a96a12684af96d322"
+          }
+        },
+        {
+          "client_id": "853683776763-8diq2bdhgnaml1b0kvarapq10its8vc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "a851b123fce544e1b1a4ef1dfc1a7e75e18843c2"
+          }
+        },
+        {
+          "client_id": "853683776763-8f1q9784m7rbsgj9h3e6mniqb6mtdh87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "4b3e7e8e871cb073c13b8760f920c8fae6081200"
+          }
+        },
+        {
+          "client_id": "853683776763-frdihr57fmq043hsijrirjs1q6dl49j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "a400821e2a651dada74408e10a39aece346fa344"
+          }
+        },
+        {
+          "client_id": "853683776763-gf3rm8ka7it49rb5d7t78srl2vovps7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "163837bc6baa4c4cdcb0c80153213553ed96802a"
+          }
+        },
+        {
+          "client_id": "853683776763-ubqn34c9uhfc20aeblmdgedcq1a8lcqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "7da85ef6dfbd39df553d09584e5e745e4f0558aa"
+          }
+        },
+        {
+          "client_id": "853683776763-ulc862d6l1p49alo08607grk2vr0j2cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "41ea5229cdcd4a252eb465fd05759b4921830be9"
+          }
+        },
+        {
+          "client_id": "853683776763-v45l4ldhoq0jrt7gfjqrp3656lefunpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile",
+            "certificate_hash": "651aedcfb1a71d3eac2d61671c40f3d6b28693be"
+          }
+        },
+        {
+          "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KIKidEaMa0NuleTk8AD20Pul48whRQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853683776763-706ru9njajdik31ouubgt47i5obtjolr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cloudloop.mobile.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853683776763:android:131b3e68342266d12d545e",
+        "android_client_info": {
+          "package_name": "com.cloudloop.mobile.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853683776763-05hkbefka73s4rf9q0plqvhlop1itgoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "a851b123fce544e1b1a4ef1dfc1a7e75e18843c2"
+          }
+        },
+        {
+          "client_id": "853683776763-5vd9t0ijjepnvflj80v0s5aev622tmq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "7da85ef6dfbd39df553d09584e5e745e4f0558aa"
+          }
+        },
+        {
+          "client_id": "853683776763-7toeivfol152rq3n69fhp7fpm3ble64m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "10f3f5467b50d7d93d4fb0159e6d9144e50194b5"
+          }
+        },
+        {
+          "client_id": "853683776763-8g6s1ji6trv41ksi5o4i6vmcnunn4s7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "f2386158605171b731e4d05b57abaaf575340a1b"
+          }
+        },
+        {
+          "client_id": "853683776763-93c98l491nu5fti2t1opgncm62rlv383.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "41ea5229cdcd4a252eb465fd05759b4921830be9"
+          }
+        },
+        {
+          "client_id": "853683776763-bpf168ceiko56gkq70oki1c5vqia6572.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "56a351b1dd91981bad96c6a4f40f69a8f982d77a"
+          }
+        },
+        {
+          "client_id": "853683776763-c5dphecifrc0gjf1oa2ct39doen2q1dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "4b3e7e8e871cb073c13b8760f920c8fae6081200"
+          }
+        },
+        {
+          "client_id": "853683776763-hajii5upa6mk0grdanhnf0sjks5bcvfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "a400821e2a651dada74408e10a39aece346fa344"
+          }
+        },
+        {
+          "client_id": "853683776763-jt2g3p5av0jcpidnlkvo6vo7ll22of8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "163837bc6baa4c4cdcb0c80153213553ed96802a"
+          }
+        },
+        {
+          "client_id": "853683776763-lrb9h4ci32gg3u0mf3tie7ims72j3l6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "651aedcfb1a71d3eac2d61671c40f3d6b28693be"
+          }
+        },
+        {
+          "client_id": "853683776763-n7t0sajq68nbmv9vu4d674q8idt9n9v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.dev",
+            "certificate_hash": "6b992cb93809e9989caa1b2d539a0aa1bb237ca9"
+          }
+        },
+        {
+          "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KIKidEaMa0NuleTk8AD20Pul48whRQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853683776763-706ru9njajdik31ouubgt47i5obtjolr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cloudloop.mobile.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853683776763:android:f84884b0625457072d545e",
+        "android_client_info": {
+          "package_name": "com.cloudloop.mobile.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853683776763-1sq43jn7ghitsipkm3l5jhdqh3rig31j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "163837bc6baa4c4cdcb0c80153213553ed96802a"
+          }
+        },
+        {
+          "client_id": "853683776763-a9tqq1kvm06kt1r49167adlpibvdb8tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "a400821e2a651dada74408e10a39aece346fa344"
+          }
+        },
+        {
+          "client_id": "853683776763-b5l0ja2he85hpb8jmjpdq72tibf58ve3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "a851b123fce544e1b1a4ef1dfc1a7e75e18843c2"
+          }
+        },
+        {
+          "client_id": "853683776763-e3tjm81ln3lei2l0rkhb7965fi0gc96g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "13916e91ea3c54f047aed2fc8bc8b66648604f62"
+          }
+        },
+        {
+          "client_id": "853683776763-l0o01vpfmc47eliv5tqck292bg62ubto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "6b992cb93809e9989caa1b2d539a0aa1bb237ca9"
+          }
+        },
+        {
+          "client_id": "853683776763-qtha85t524b96vhqfn6elqslvhoda6t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "41ea5229cdcd4a252eb465fd05759b4921830be9"
+          }
+        },
+        {
+          "client_id": "853683776763-t66fdck206t7p30ec6e8as5i01776a8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudloop.mobile.stg",
+            "certificate_hash": "10f3f5467b50d7d93d4fb0159e6d9144e50194b5"
+          }
+        },
+        {
+          "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KIKidEaMa0NuleTk8AD20Pul48whRQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853683776763-fqmet2fq35i48hpdiv5pmu1u4s9ppnm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853683776763-706ru9njajdik31ouubgt47i5obtjolr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cloudloop.mobile.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

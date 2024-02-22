@@ -1,0 +1,10 @@
+export 'body_text.dart';
+export 'heading_text1.dart';
+export 'heading_text2.dart';
+export 'heading_text3.dart';
+export 'heading_text4.dart';
+export 'heading_text5.dart';
+export 'heading_text6.dart';
+export 'menu_title_text.dart';
+export 'subtitle_text.dart';
+export 'welcome_text.dart';
